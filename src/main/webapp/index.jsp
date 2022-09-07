@@ -1,6 +1,8 @@
 <html>
 <body>
-<h2>Creating & Deploying Web Application to Server using Maven</h2>
+<h2>CI/CD Architecture Project 1 <br> 
+  
+  Deploy the build artifacts into application server using Jenkins Job</h2>
 
   <h3> 
   Installation and Configuration, 
