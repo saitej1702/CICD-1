@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1>CI/CD Architecture Project 1 <br> 
+<h1>Module -6  <br> 
   
-  Deploy the build artifacts into application server using Jenkins Job</h1>
+  Project D.2 – Creating & Deploying Web Application to App Server using Maven </h1>
 </body>
 </html>
