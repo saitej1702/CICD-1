@@ -1,13 +1,9 @@
 <html>
 <body>
-<h1>Module -6  <br> 
-Project D.2 – Creating & Deploying Web Application to App Server using Maven </h1>
+<h1>CI/CD Project - 1 <br> 
+Deploy the war file in to app server using Jenkins </h1>
   
-  <h1>Module -6  <br> 
-Project D.2 – Creating & Deploying Web Application to App Server using Maven </h1>
-  
-  <h1>Module -6  <br> 
-Project D.2 – Creating & Deploying Web Application to App Server using Maven </h1>
+
   
 </body>
 </html>
