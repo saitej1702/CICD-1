@@ -4,7 +4,7 @@
   <groupId>com.sample</groupId>
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
-  <version>03.00.09</version>
+  <version>03.00.10</version>
   <name>LWPLABS Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
