@@ -38,7 +38,7 @@
 			</resource>
 		</resources>
 
-	  <distributionManagement>
+	<!--  <distributionManagement>
     <repository>
         <uniqueVersion>false</uniqueVersion>
         <id>corp1</id>
@@ -46,7 +46,7 @@
         <url>/root/.m2</url>
         <layout>default</layout>
     </repository>
-</distributionManagement>
+</distributionManagement> -->
 
 
   </build>
